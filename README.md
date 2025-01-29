@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suhas Uppala</h1>
 <h3 align="center">SIH'24 Finalist | Amazon ML Summer School 2024 Student</h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&weight=700&size=34&pause=600&color=1EEB4C&center=true&width=435&lines=Driven+to+master+emerging+tech!" alt="Typing SVG" /></a>
+
 - 🌱 I’m currently learning **NLP, DL**
 
 - 📫 How to reach me **suhasuppala1805@gmail.com**
